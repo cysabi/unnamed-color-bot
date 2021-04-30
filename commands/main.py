@@ -7,26 +7,13 @@ slash_color = lambda: make_request(
     endpoint="commands",
     json={
         "name": "color",
-        "description": "Identify and display a color that you pass in",
+        "description": "Identify and display a color that you choose",
         "options": [
             {
                 "name": "color",
-                "description": "The color, in any format.",
+                "description": "The color you'd like to identify, in any format",
                 "type": 3,
                 "required": True,
-            },
-            {
-                "name": "format",
-                "description": "The format to display the color in.",
-                "type": 3,
-                "required": False,
-                "choices": [
-                    {"name": "Name", "value": "name"},
-                    {"name": "HEX", "value": "hex"},
-                    {"name": "RGB", "value": "rgb"},
-                    {"name": "HSL", "value": "hsl"},
-                    {"name": "CMYK", "value": "cmyk"},
-                ],
             },
         ],
     },
