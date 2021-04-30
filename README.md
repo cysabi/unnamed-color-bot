@@ -1,16 +1,17 @@
 # `unnamed-color-bot`
-> A convenient color tool, right within discord.
+> A convenient and unnessecary color tool, right within discord.
 
 ![License][license-shield]
 ![Stars][stars-shield]
 # ![Banner](banner.png)
 
-You really want me to explain this? **I** don't even know why this exists.
+i don't know why i made this, please send help
 
 ## Usage <!-- Using the product -->
-You can [invite the bot here](https://discord.com/api/oauth2/authorize?client_id=837141419650449418&scope=applications.commands). The bot is still in development, expect some instability. Please remember to report any bugs, suggestions, or issues.
+You can [**invite the bot here**](https://discord.com/api/oauth2/authorize?client_id=837141419650449418&scope=applications.commands).
+Please remember to report any bugs, suggestions, or issues.
 
-This is a bot utilizes slash commands, you can view them all on Discord.
+This bot utilizes discord slash commands, you can view them all on Discord.
 
 ## Contributing <!-- Using the source -->
 This repository split into 2 main parts.
@@ -29,9 +30,9 @@ This is the local python project with the script that you will most likely be ru
 3. Run `pipenv run main` to run the script.
 
 ### `cloud_function/`
-These are the files that are uploaded to the Google Cloud Function.
+The bot is hosted using Google Cloud Functions, this folder contains the files that are uploaded.
 
-1. Inside of `main.py`, replace the string in `PUBLIC_KEY = ""` with the public key of your application.
+1. Inside `main.py`, replace the string in `PUBLIC_KEY = ""` with the public key of your application.
 
 ---
 
