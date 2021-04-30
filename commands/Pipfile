@@ -1,0 +1,5 @@
+[packages]
+requests = "*"
+
+[scripts]
+main = "python main.py"
