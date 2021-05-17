@@ -37,7 +37,7 @@ class Color:
         self.color = self.parse_color(color)
 
     def __str__(self):
-        return hex(self.color)[2:]
+        return hex(self.color)[2:].zfill(6)
 
     @staticmethod
     def parse_color(color: str) -> int:
