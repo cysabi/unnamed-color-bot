@@ -36,11 +36,7 @@ The bot is hosted using Google Cloud Functions, this folder contains the files t
 
 ---
 
-Contact me · [**@LeptoFlare**](https://github.com/LeptoFlare) · [lepto.tech](https://lepto.tech)
-
-As always, distributed under the MIT license. See `LICENSE` for more information.
-
-_[https://github.com/LeptoFlare/unnamed-color-bot](https://github.com/LeptoFlare/unnamed-color-bot)_
+*empathy included • [**@cysabi**](https://github.com/cysabi) • [cysabi.github.io](https://cysabi.github.io)*
 
 <!-- markdown links & imgs -->
 [stars-shield]: https://img.shields.io/github/stars/LeptoFlare/unnamed-color-bot.svg?style=social
