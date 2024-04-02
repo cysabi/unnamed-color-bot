@@ -7,13 +7,13 @@
 
 i don't know why i made this, please send help
 
-## Usage <!-- Using the product -->
+## usage
 You can [**invite the bot here**](https://discord.com/api/oauth2/authorize?client_id=837141419650449418&scope=applications.commands).
 Please remember to report any bugs, suggestions, or issues.
 
 This bot utilizes discord slash commands, you can view them all on Discord.
 
-## Contributing <!-- Using the source -->
+## local setup
 This repository split into 2 main parts.
 - `commands/`
 - `cloud_function/`
