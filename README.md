@@ -1,8 +1,6 @@
 # `unnamed-color-bot`
 > A convenient and unnessecary color tool, right within discord.
 
-![License][license-shield]
-![Stars][stars-shield]
 # ![Banner](banner.png)
 
 i don't know why i made this, please send help
@@ -37,7 +35,3 @@ The bot is hosted using Google Cloud Functions, this folder contains the files t
 ---
 
 *empathy included • [**@cysabi**](https://github.com/cysabi) • [cysabi.github.io](https://cysabi.github.io)*
-
-<!-- markdown links & imgs -->
-[stars-shield]: https://img.shields.io/github/stars/LeptoFlare/unnamed-color-bot.svg?style=social
-[license-shield]: https://img.shields.io/github/license/LeptoFlare/unnamed-color-bot.svg?style=flat
